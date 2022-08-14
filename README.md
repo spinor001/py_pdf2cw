@@ -1,2 +1,3 @@
 # py_pdf2cw
-pdf words to could pics
+pdf extract words to could pics
+ 
